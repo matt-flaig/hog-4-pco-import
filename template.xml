@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Show name="Sun Grove Church 4-19-15" maj_version="3" min_version="4" patch_version="0" build="1243">
-		<Cuelist number="10" name="Sunday Service">
+	<Show name="The Weekend" maj_version="3" min_version="4" patch_version="0" build="1243">
+		<Cuelist number="10" name="The Weekend">
 			{cue_list}
 		</Cuelist>
 	</Show>
