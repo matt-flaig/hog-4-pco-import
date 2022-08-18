@@ -4,6 +4,8 @@
 This tool allows you to import a Planning Center Schedule into Hog 4 PC cuelist (by generating the cuelist XML).
 
 ## Getting Started
+Download this repo.
+
 Add your **PCO_API_KEY** and **PCO_API_SECRET** to `generateXML.php`.
 
 Add your **PCO_SERVICE_TYPE** to `generateXML.php`.
