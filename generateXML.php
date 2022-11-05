@@ -40,10 +40,9 @@
 							}
 						}	
 					}
-																				// remove new lines (from comment)
+					// remove new lines (from comment)
 					$replace .= ($numberCount > 1 ? '			' : '') . '<Cue comment="' . str_replace(array("\r", "\n"), '', $comment) . '" number="' . $numberCount . '" name="' . htmlspecialchars($item->attributes->title) . '" trigger="halt" milliseconds="1000"/>' . "\n";
 					
-					//enumerate
 					$numberCount++;
 				}
 			}
