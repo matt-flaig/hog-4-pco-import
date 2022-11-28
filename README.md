@@ -8,7 +8,7 @@ Download this repo.
 
 Add your `PCO_API_KEY` and `PCO_API_SECRET` to **generateXML.php**.
 
-Add your `PCO_SERVICE_TYPE` to **generateXML.php**.
+Add your `PCO_SERVICE_TYPE` to **generateXML.php**. (It's typically the multi-digit number after the `https://services.planningcenteronline.com/dashboard/` url).
 
 Upload the files to a web server.
 
